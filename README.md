@@ -2,6 +2,17 @@
 
 This is a Python implementation of the game Switch Chess using Pygame library.
 
+Switch Chess App is an extended version of [Switch Chess](http://navasse.net/switchchess/) a performative work of art played based on chance. The board game is to be played on an actual chessboard with game pieces. The board game is designed so that players go back and forth randomly between positions not for the goal to win, but to understand why another person may make certain decisions based on unique circumstances, which in part they do not control. Switch Chess App takes the basic rules of the board game farther by not only changing positions (being black or white after a full move: that's two moves by the players), but also changing colors while keeping the same position. In this beta version, you play against yourself.
+
+Switch Chess App is a collaboration between Eduardo Navas and Eduardo de Moura.
+
+Concept and basic algorithm: Eduardo Navas
+Programming and beta user interface design: Eduardo de Moura
+
+This performative work of art is discussed in "RS (Remix Studies) + DH (Digital Humanities): Critical Reflections on Chance and Strategy for Empathy," published in [The Routledge Handbook of Remix Studies and Digital Humanities](https://www.routledge.com/The-Routledge-Handbook-of-Remix-Studies-and-Digital-Humanities/Navas-Gallagher-burrough/p/book/9780367361426)
+
+Follow this page for updates on future versions that will allow you to play against another person. 
+
 
 ## How to play
 
